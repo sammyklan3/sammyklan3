@@ -17,25 +17,25 @@ Introduce yourself here. Talk about your background, experience, and what motiva
 
 List your notable projects here. Include a brief description, technologies used, and a link to the project repository or live demo. You can also add screenshots or GIFs to make it visually appealing.
 
-- [Project 1](https://github.com/username/project1): Description of project 1.
-- [Project 2](https://github.com/username/project2): Description of project 2.
-- [Project 3](https://github.com/username/project3): Description of project 3.
+- [Project 1](https://github.com/sammyklan3/OANDA-trading-bot.git): Description of project 1.
+- [Project 2](https://github.com/sammyklan3/Trustguardianhub.git): Description of project 2.
+- [Project 3](https://github.com/sammyklan3/meme-app.git): Description of project 3.
 
 ## Skills
 
 Highlight your technical skills and expertise. You can categorize them into different sections such as programming languages, frameworks, tools, or methodologies. Feel free to mention any certifications or relevant achievements.
 
-- Programming Languages: JavaScript, Python, Java
+- Programming Languages: JavaScript, Python, Flutter
 - Front-end Development: HTML, CSS, React
-- Back-end Development: Node.js, Express, Django
-- Databases: MySQL, MongoDB
+- Back-end Development: Node.js, Express, Flask
+- Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
 
 ## Contact
 
 Provide your contact information here so that potential employers or collaborators can reach out to you. You can include your email address, LinkedIn profile, or any other preferred method of contact.
 
-- Email: yourname@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
+- Email: [Send Email](mailto:sammyklane7@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sammyklane)
 
 Feel free to explore my repositories and reach out to me for any inquiries or collaborations!
