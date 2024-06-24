@@ -1,6 +1,6 @@
-# My Awesome GitHub Portfolio
+# My GitHub Portfolio
 
-Welcome to my GitHub portfolio! This repository showcases my projects, contributions, and skills as a software developer.
+Welcome to my GitHub portfolio! This repository showcases my projects, and skills as a software developer.
 
 ## Table of Contents
 
@@ -11,31 +11,29 @@ Welcome to my GitHub portfolio! This repository showcases my projects, contribut
 
 ## About Me
 
-Introduce yourself here. Talk about your background, experience, and what motivates you as a developer. You can also mention any specific technologies or programming languages you specialize in.
+Hi, i'm Samuel, i'm a junior developer, well mostly self-taught from w3schools, also studied at a bootcamp and currently an undergrad student taking IT at Mount Kenya University. Love meeting new developers with same interests or different too.
 
 ## Projects
 
-List your notable projects here. Include a brief description, technologies used, and a link to the project repository or live demo. You can also add screenshots or GIFs to make it visually appealing.
+My best projects I think i've worked on:
 
-- [Project 1](https://github.com/sammyklan3/OANDA-trading-bot.git): Description of project 1.
-- [Project 2](https://github.com/sammyklan3/Trustguardianhub.git): Description of project 2.
-- [Project 3](https://github.com/sammyklan3/meme-app.git): Description of project 3.
+- [Project 1](https://github.com/sammyklan3/OANDA-trading-bot.git)
+- [Project 2](https://github.com/sammyklan3/Trustguardianhub.git)
+- [Project 3](https://github.com/sammyklan3/savannah.git)
 
 ## Skills
 
-Highlight your technical skills and expertise. You can categorize them into different sections such as programming languages, frameworks, tools, or methodologies. Feel free to mention any certifications or relevant achievements.
+My skills right now is the MERN or PERN stack, also learned typescript.
 
 - Programming Languages: JavaScript, Python, Flutter
 - Front-end Development: HTML, CSS, React
 - Back-end Development: Node.js, Express, Flask
-- Databases: MySQL, PostgreSQL
+- Databases: MySQL, PostgreSQL, MongoDB(though I don't use it as much)
 - Version Control: Git, GitHub
 
 ## Contact
 
-Provide your contact information here so that potential employers or collaborators can reach out to you. You can include your email address, LinkedIn profile, or any other preferred method of contact.
-
 - Email: [Send Email](mailto:sammyklane7@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sammyklane)
+- LinkedIn: My profile is currently down, working on it
 
 Feel free to explore my repositories and reach out to me for any inquiries or collaborations!
